@@ -6,3 +6,6 @@ images:
 - name: 007427784670.dkr.ecr.ap-south-1.amazonaws.com/sample-app
   newName: 007427784670.dkr.ecr.ap-south-1.amazonaws.com/sample-app
   newTag: f9ce815
+- name: 575751781353.dkr.ecr.ap-south-1.amazonaws.com/sample-app
+  newName: 575751781353.dkr.ecr.ap-south-1.amazonaws.com/sample-app
+  newTag: 7179d8a

@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/deopura/sample-app.git
+    repoURL: https://github.com/Debu034040/sample-app.git
     targetRevision: main
     path: manifests/overlays/prod
   destination:
